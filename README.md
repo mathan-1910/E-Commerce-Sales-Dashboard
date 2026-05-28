@@ -1,104 +1,83 @@
-\# E-Commerce Sales Dashboard (Power BI)
+# E-Commerce Sales Dashboard (Power BI)
 
+## Project Overview
 
+This project presents an interactive Power BI dashboard built using e-commerce sales data.
 
-\## Project Overview
+The dashboard analyzes:
+- Sales performance
+- Profit trends
+- Customer purchasing behavior
+- Product category performance
+- Payment mode distribution
+- State-wise sales analysis
 
+---
 
+## Dataset Information
 
-This project contains an interactive Power BI dashboard for analyzing e-commerce sales performance across states, categories, customers, and payment modes.
+The project uses two CSV files:
 
+### 1. Orders.csv
+Contains:
+- Order ID
+- Order Date
+- Customer Name
+- State
+- City
 
+### 2. Details.csv
+Contains:
+- Order ID
+- Amount
+- Profit
+- Quantity
+- Category
+- Sub-Category
+- Payment Mode
 
-The dashboard helps identify:
+The datasets are connected using:
+- Order ID
 
-\- High-performing states
+---
 
-\- Most profitable product categories
+## Dashboard Features
 
-\- Monthly profit trends
+### KPI Cards
+- Total Sales Amount
+- Total Profit
+- Total Quantity
+- Average Order Value (AOV)
 
-\- Customer purchasing behavior
+### Visualizations
+- Amount by State
+- Quantity by Category
+- Profit by Month
+- Amount by Customer
+- Quantity by Payment Mode
+- Profit by Sub-Category
 
-\- Payment preferences
+---
 
+## Tools & Technologies
 
+- Power BI
+- CSV Dataset
+- DAX
+- Data Modeling
+- Data Visualization
 
-\---
+---
 
-
-
-\## Dashboard Features
-
-
-
-\### KPI Cards
-
-\- Total Sales Amount
-
-\- Total Profit
-
-\- Quantity Sold
-
-\- Average Order Value (AOV)
-
-
-
-\### Visualizations
-
-\- Amount by State
-
-\- Quantity by Category
-
-\- Profit by Month
-
-\- Amount by Customer
-
-\- Quantity by Payment Mode
-
-\- Profit by Sub-Category
-
-
-
-\---
-
-
-
-\## Tools Used
-
-
-
-\- Power BI
-
-\- Excel / CSV Dataset
-
-\- DAX
-
-\- Data Visualization
-
-
-
-\---
-
-
-
-\## Repository Structure
-
-
+## Repository Structure
 
 ```plaintext
-
 E-Commerce-Sales-Dashboard/
-
 │
-
 ├── Dashboard/
-
 ├── Dataset/
-
+│   ├── Orders.csv
+│   └── Details.csv
 ├── Images/
-
 ├── Insights/
-
 └── README.md
-
