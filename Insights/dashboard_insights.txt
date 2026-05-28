@@ -1,0 +1,23 @@
+E-Commerce Sales Dashboard Insights
+
+1. Maharashtra generated the highest sales amount (~102K), followed by Madhya Pradesh (~87K).
+
+2. Clothing contributed the highest quantity sold (63%), making it the top-performing category by volume.
+
+3. Electronics accounted for 21% of quantity sold, while Furniture contributed 17%.
+
+4. COD (Cash on Delivery) was the most preferred payment mode (~44%), indicating customer trust in offline payment methods.
+
+5. UPI became the second most used payment option (~21%), showing growing digital payment adoption.
+
+6. Printers generated the highest profit among sub-categories.
+
+7. Tables showed comparatively lower profitability and may require pricing or cost optimization.
+
+8. Monthly profit trends indicate:
+   - Strong profits during January, February, March, and November.
+   - Losses observed in May, July, September, and December.
+
+9. Harivansh and Madhav were the highest contributing customers in terms of purchase amount.
+
+10. Seasonal sales spikes suggest strong festive or promotional period influence on revenue generation.
